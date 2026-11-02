@@ -18,7 +18,7 @@
    replays the game from the start. */
 
 #define MAX_CARDS 64
-#define DEALER_STANDS_ON 10
+#define DEALER_STANDS_ON 17
 
 static unsigned long deck_state;
 
